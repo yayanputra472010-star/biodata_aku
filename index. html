@@ -1,0 +1,26 @@
+<body style="background-color: #e0f7fa; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0;">
+
+    <div style="background-color: white; padding: 30px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); width: 80%; max-width: 400px; border: 5px solid #81d4fa;">
+        
+        <h1 style="color: #0277bd; margin-bottom: 10px; letter-spacing: 2px;">✨ BIODATA SAYA ✨</h1>
+        
+        <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, transparent, #0277bd, transparent); margin-bottom: 20px;">
+        
+        <div style="text-align: left; line-height: 1.8; color: #37474f;">
+            <p><b>👤 Nama:</b> Yayan</p> 
+            <p><b>📅 Tanggal lahir:</b>  juli-4-2010</p>
+            <p><b>🚺 Jenis kelamin:</b> Laki laki</p>
+            <p><b>🌙 Agama:</b> Islam</p> 
+            <p><b>🐣 Anak ke:</b> 2</p> 
+            <p><b>👮 Cita-cita:</b> Presiden</p>
+            <p><b>📍 Alamat:</b> Desa mekarbuana, Dusun kalapa</p>
+        </div>
+
+        <button onclick="alert('Selamat! Kamu di kasih gocap 🍟🥤')" 
+            style="margin-top: 25px; padding: 12px 25px; background-color: #0288d1; color: white; border: none; border-radius: 50px; cursor: pointer; font-weight: bold; transition: 0.3s; box-shadow: 0 4px 15px rgba(2, 136, 209, 0.4);">
+            Klik untuk Kejutan! ✨
+        </button>
+        
+    </div>
+
+</body>
